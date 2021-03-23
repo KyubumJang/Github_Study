@@ -1,8 +1,0 @@
-print("오픈소스 프로그래밍 Git Basic-Experiments 과정")
-print("구구단을 외자.\n")
-
-for x in range(2, 10):
-    print("[" + str(x) + "단]")
-    for y in range(1, 10):
-        print(x, "X", y, "=", x*y)
-print("---")
